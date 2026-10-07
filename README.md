@@ -24,3 +24,8 @@ This repository outlines a theoretical and applied framework for understanding h
 ## Application to Generative AI & Alignment
 By comprehensively mapping the political economy of digital platforms, this framework is utilized to:
 1. Identify and mitigate systemic biases in AI training datasets.
+2. Ensure structural accuracy and ethical compliance in Generative AI models.
+3. Formulate robust policy guidelines that protect human agency in highly automated systems.
+1. Identify and mitigate systemic biases in AI training datasets.
+2. Ensure structural accuracy and ethical compliance in Generative AI models.
+3. Formulate robust policy guidelines that protect human agency in highly automated systems.

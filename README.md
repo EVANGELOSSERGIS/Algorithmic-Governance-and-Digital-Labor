@@ -20,6 +20,21 @@ This repository outlines a theoretical and applied framework for understanding h
 ### 4. Big Tech Monopolies & Digital Governance
 * **Chokepoint Capitalism:** Investigating the monopolistic control of data and digital infrastructure by tech giants, leading to platform illiberalism and digital authoritarianism.
 * **The Vectoralist Class:** Analyzing how modern power structures rely on the ownership of digital vectors and data pipelines, fundamentally changing the political economy of the internet.
+  
+* ## Theoretical & Methodological Integration (STS & Cultural Criminology)
+
+This repository bridges **computational social science** with critical sociological and criminological theory to audit how algorithmic architectures and neoliberal platform economies structure cultural production and digital deviance:
+
+* **Algorithmic Rigidity & Digital Performativity (Bergson & Bourdieu):** Operationalizing Henri Bergson’s concept of *"le mécanique plaqué sur du vivant"* (*the mechanical encrusted upon the living*) alongside Pierre Bourdieu’s field theory to analyze how recommendation algorithms (TikTok, YouTube, Spotify) rigidify living subcultural expressions—such as contemporary rap, trap, and New York/comedian drill—into standardized, monetizable digital tropes and symbolic capital.
+* **Socio-Technical Networks & Cyborg Agency (Latour & Haraway):** Employing Actor-Network Theory (ANT) and feminist technoscience to evaluate recommendation systems and LLMs not as neutral intermediaries, but as non-human actants that co-produce digital personas, affective labor, and subcultural visibility.
+* **Algorithmic Positivism & Cultural Criminology (Foucault & Adorno):** Auditing generative AI and platform moderation pipelines against neo-Lombrosian deterministic biases, preventing the conflation of stylized subcultural/artistic performativity ("digital gangsterism") with actual criminality while critiquing culture-industry standardization.
+
+## Computational Pipeline (`evaluate_alignment.py`)
+
+To run the automated sociological evaluation pipeline on the RLHF benchmark dataset (`rlhf-dataset-sample.json`):
+
+```bash
+python3 evaluate_alignment.py
 
 ## Application to Generative AI & Alignment
 By comprehensively mapping the political economy of digital platforms, this framework is utilized to:
